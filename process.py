@@ -4,7 +4,7 @@ import math
 import numpy as np
 import pandas
 
-from common import Phase  # noqa
+from AtlesDescriptives.common import Phase  # noqa
 
 _entry_wait = 2  # min seconds between counted entries to top
 _freeze_min_time = 2  # min seconds to count lack of motion as a "freeze"
