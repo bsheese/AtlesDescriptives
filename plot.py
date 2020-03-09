@@ -5,7 +5,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib import collections, lines, patches
 
-from analysis import heatmaps
+import heatmaps
 
 import config
 
