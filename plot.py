@@ -5,11 +5,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 from matplotlib import collections, lines, patches
 
-import heatmaps
-
-import config
-
-
 # Source: https://gist.github.com/jasonmc/1160951
 def _set_foregroundcolor(ax, color):
     '''For the specified axes, sets the color of the frame, major ticks,
